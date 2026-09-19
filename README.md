@@ -160,9 +160,9 @@ mvn spring-boot:run
 ```
 
 Once started:
-- **API Base URL**: `http://localhost:8080`
-- **Swagger OpenAPI Documentation**: `http://localhost:8080/swagger-ui/index.html`
-- **H2 Web Console**: `http://localhost:8080/h2-console`
+- **API Base URL**: `http://localhost:8081`
+- **Swagger OpenAPI Documentation**: `http://localhost:8081/swagger-ui/index.html`
+- **H2 Web Console**: `http://localhost:8081/h2-console`
   - JDBC URL: `jdbc:h2:mem:ecommercedb`
   - Username: `sa`
   - Password: *(leave blank)*
